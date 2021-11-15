@@ -1,0 +1,8 @@
+# Python dependencies for testing
+# These are the ONLY external dependencies required
+pytest>=7.4.0
+
+# Optional: For running the OpenCV examples (not part of core library)
+# Uncomment if you want to test the example implementations
+# opencv-python>=4.8.0
+# numpy>=1.24.0
