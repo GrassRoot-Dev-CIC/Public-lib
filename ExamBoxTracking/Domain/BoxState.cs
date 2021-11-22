@@ -30,3 +30,4 @@ namespace ExamBoxTracking.Domain
         Exception
     }
 }
+
