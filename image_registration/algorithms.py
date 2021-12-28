@@ -80,3 +80,4 @@ class AlgorithmBase(ABC):
     def name(self) -> str:
         """Return algorithm name for logging and reporting."""
         return self.__class__.__name__
+

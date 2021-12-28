@@ -364,3 +364,4 @@ class TestEdgeCases:
         assert output.status == "fallback_low_confidence"
         assert output.result.matches_count == 0
 
+
