@@ -32,3 +32,4 @@ class TelemetryPoint:
         # Temperature can be negative in some contexts, but sanity check
         if self.temperature < -100 or self.temperature > 200:
             raise ValueError(f"Temperature out of reasonable range: {self.temperature}°C")
+
