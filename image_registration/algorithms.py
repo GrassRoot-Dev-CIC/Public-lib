@@ -81,3 +81,4 @@ class AlgorithmBase(ABC):
         """Return algorithm name for logging and reporting."""
         return self.__class__.__name__
 
+

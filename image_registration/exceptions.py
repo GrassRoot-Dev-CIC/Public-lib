@@ -17,3 +17,4 @@ class ConfigurationError(RegistrationError):
     """Raised when the engine is misconfigured."""
     pass
 
+
