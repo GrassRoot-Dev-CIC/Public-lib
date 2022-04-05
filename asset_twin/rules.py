@@ -222,3 +222,4 @@ class RuleEngine:
     def remove_rule(self, rule_class_name: str) -> None:
         """Remove a rule by class name."""
         self.rules = [r for r in self.rules if r.__class__.__name__ != rule_class_name]
+
