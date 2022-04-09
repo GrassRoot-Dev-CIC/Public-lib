@@ -353,3 +353,4 @@ Internal use - Dar Al-Handasah infrastructure projects.
 - Innovation: Encoding design patterns as data for 50% reduction in costing effort
 
 
+
