@@ -34,3 +34,4 @@ class TelemetryPoint:
             raise ValueError(f"Temperature out of reasonable range: {self.temperature}°C")
 
 
+

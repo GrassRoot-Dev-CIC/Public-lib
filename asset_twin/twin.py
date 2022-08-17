@@ -137,3 +137,4 @@ class AssetTwin:
             f"type='{self.config.asset_type}', "
             f"telemetry_points={len(self.telemetry)})"
         )
+
