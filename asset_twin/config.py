@@ -73,3 +73,4 @@ class TwinConfig:
             raise ValueError("asset_id cannot be empty")
         if self.rated_flow <= 0:
             raise ValueError(f"rated_flow must be positive, got {self.rated_flow}")
+
