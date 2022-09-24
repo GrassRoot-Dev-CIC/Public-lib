@@ -41,3 +41,4 @@ namespace ExamBoxTracking.Domain
             (WeightKg.HasValue ? $", Weight={WeightKg:F2}kg" : "");
     }
 }
+

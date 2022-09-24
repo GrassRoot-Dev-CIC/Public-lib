@@ -40,3 +40,4 @@ namespace ExamBoxTracking.Domain
         public EventValidationException(string message) : base(message) { }
     }
 }
+
