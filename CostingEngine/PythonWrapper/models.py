@@ -140,3 +140,4 @@ class CostEstimate:
             summary[line.category] += line.line_cost_usd
         object.__setattr__(self, 'summary_by_category', summary)
 
+
