@@ -138,3 +138,4 @@ class AssetTwin:
             f"telemetry_points={len(self.telemetry)})"
         )
 
+
