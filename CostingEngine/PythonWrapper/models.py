@@ -141,3 +141,4 @@ class CostEstimate:
         object.__setattr__(self, 'summary_by_category', summary)
 
 
+
