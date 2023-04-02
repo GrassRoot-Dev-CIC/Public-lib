@@ -248,3 +248,4 @@ class ImageRegistrationEngine:
             self.logger.info(f"Unregistering algorithm: {name}")
             del self.algorithms[name]
 
+
