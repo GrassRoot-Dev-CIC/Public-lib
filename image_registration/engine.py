@@ -249,3 +249,4 @@ class ImageRegistrationEngine:
             del self.algorithms[name]
 
 
+
