@@ -187,3 +187,4 @@ if __name__ == "__main__":
         print(f"Score: {output.result.score:.3f}")
     else:
         print("Test images not found")
+
