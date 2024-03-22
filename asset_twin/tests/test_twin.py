@@ -447,3 +447,4 @@ class TestAssetTwinIntegration:
         assert "1" in repr_str  # 1 telemetry point
 
 
+
