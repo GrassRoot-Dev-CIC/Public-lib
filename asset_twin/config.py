@@ -74,3 +74,4 @@ class TwinConfig:
         if self.rated_flow <= 0:
             raise ValueError(f"rated_flow must be positive, got {self.rated_flow}")
 
+
