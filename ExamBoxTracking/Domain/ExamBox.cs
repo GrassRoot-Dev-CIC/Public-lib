@@ -167,3 +167,4 @@ namespace ExamBoxTracking.Domain
             $"ExamBox[{BoxId}]: State={State}, Weight={RecordedWeightKg?.ToString("F2") ?? "N/A"}kg";
     }
 }
+
